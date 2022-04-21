@@ -8,4 +8,4 @@
  
  🏠 Living in Washington DC
  
- 🎨 [And This is my Portfolio](https://miguel-rivas.github.io)
+ 🎨 [And this is my Portfolio](https://miguel-rivas.github.io)
