@@ -6,6 +6,6 @@
 
  🇩🇴 From Dominican Republic
  
- 🏠 Living in Washington DC
+ 🏠 Living in Chicago IL
  
  🎨 [And this is my Portfolio](https://miguel-rivas.github.io)
