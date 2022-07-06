@@ -4,8 +4,10 @@
 
 🌈 I'm a Frontend Developer
 
- 🇩🇴 From Dominican Republic
+🇩🇴 From Dominican Republic
  
- 🏠 Living in Chicago IL
- 
- 🎨 [And this is my Portfolio](https://miguel-rivas.github.io)
+🏠 Living in Washington DC
+
+🐣 [Very proud of my second product](https://nano-grid.github.io)
+
+🎨 [And this is my Portfolio](https://miguel-rivas.github.io)
