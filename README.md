@@ -6,7 +6,7 @@
 
 🇩🇴 From Dominican Republic
  
-🏠 Living in Washington DC
+🏠 Living in Washington, DC
 
 🐣 [Very proud of my second product](https://nano-grid.github.io)
 
