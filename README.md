@@ -2,9 +2,12 @@
 
 👋 Hi, I’m Miguel Rivas, a Frontend Developer from Dominican Republic living in Washington, DC.
 
-🐣 [This is Nano Grid (my second product)](https://nano-grid.github.io)
+🎨 This is my [Portfolio](https://miguel-rivas.github.io).
 
-🎨 [And this is my Portfolio](https://miguel-rivas.github.io)
+🐣 [Nano Grid](https://nano-grid.github.io) (my second product).
+
+🎬 And my [Youtube Channel](https://www.youtube.com/channel/UC_ONp50_gBsbI1TsYPuFl6g)
+> I upload shorts about interesting projects every Wednesday).
 
 --------------
 All my repositories are nested inside the following organizations:
