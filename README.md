@@ -10,6 +10,7 @@
 > I upload shorts about interesting projects every Wednesday on my [Youtube Channel][youtube].
 
 <!-- YOUTUBE:START -->
+- [Phaser 3](https://www.youtube.com/watch?v=faHv5bk0XRs)
 <!-- YOUTUBE:END -->
 
 --------------
