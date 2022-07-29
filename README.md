@@ -16,7 +16,7 @@
 --------------
 *All my repositories are nested inside the following organizations:*
 
-## ![Miguel Rivas Avatar][orgMiguelRivasAvatar] [Miguel Rivas][orgMiguelRivas]
+## [![Miguel Rivas Avatar][orgMiguelRivasAvatar] Miguel Rivas][orgMiguelRivas]
 
 > Portfolio and all the modules related to it.
 - HTML/Pug/Haml
@@ -34,14 +34,14 @@
 - Konva
 - Firebase
 
-## ![Nano Grid Avatar][orgNanoGridAvatar] [Nano Grid][orgNanoGrid]
+## [![Nano Grid Avatar][orgNanoGridAvatar] Nano Grid][orgNanoGrid]
 > Modules related to Nano Grid (my second product).
 - Javascript
 - Web Components
 - VueJs
 - CSS/SCSS
 
-## ![MR Desktop Avatar][orgMRDesktopAvatar] [MR Desktop][orgMRDesktop]
+## [![MR Desktop Avatar][orgMRDesktopAvatar] MR Desktop][orgMRDesktop]
 > Desktop applications and scripts, most applications are from the beginning of my career and some scripts were created to optimize my workflow (like the [Create Icon Script]([createIconsScript]) that is using imageMagick to generate icons for all the sizes needed in an android app).
 - Shell Scripts
 - Visual Basic
@@ -49,12 +49,12 @@
 - C++
 - Flash
 
-## ![MR Mobile Avatar][orgMRMobileAvatar] [MR Mobile][orgMRMobile]
+## [![MR Mobile Avatar][orgMRMobileAvatar] MR Mobile][orgMRMobile]
 > Mobile applications that I have been working on.
 - Unity
 - Kotlin
 
-## ![MR Modules Avatar][orgMRModulesAvatar] [MR Modules][orgMRModules]
+## [![MR Modules Avatar][orgMRModulesAvatar] MR Modules][orgMRModules]
 > Node modules and forks of modules that I have been using.
 - JavaScript
 - VueJs
@@ -63,7 +63,7 @@
 - Typescript
 - CSS/SCSS
 
-## ![MR Labs Avatar][orgMRLabsAvatar] [MR Labs][orgMRLabs]
+## [![MR Labs Avatar][orgMRLabsAvatar] MR Labs][orgMRLabs]
 > Experiments and old modules that are not compatible with the current version of the portfolio (Currently I have no backend so all the Ruby on Rails and PHP modules are obsolete).
 - HTML/Pug/Haml
 - CSS/SCSS
