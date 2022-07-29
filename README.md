@@ -6,11 +6,14 @@
 
 🐣 [Nano Grid][nanoGridWebsite] (my second product).
 
-🎬 And my [Youtube Channel][youtube]
-> I upload shorts about interesting projects every Wednesday).
+--------------
+> I upload shorts about interesting projects every Wednesday on my [Youtube Channel][youtube].
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 --------------
-All my repositories are nested inside the following organizations:
+> All my repositories are nested inside the following organizations:
 
 ## [Miguel Rivas][orgMiguelRivas]
 ![Miguel Rivas Avatar][orgMiguelRivasAvatar]
