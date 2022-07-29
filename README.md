@@ -13,7 +13,7 @@ All my repositories are nested inside the following organizations:
 > Portfolio and all the modules related to it.
 - HTML/Pug/Haml
 - CSS/SCSS
-- Javascript
+- JavaScript
 - Web Components
 - jQuery
 - VueJs
@@ -48,7 +48,7 @@ All my repositories are nested inside the following organizations:
 
 ## [MR Modules](https://github.com/mr-modules)
 > Node modules and forks of modules that I have been using.
-- Javascript
+- JavaScript
 - VueJs
 - Svelte
 - Web Components
@@ -59,7 +59,7 @@ All my repositories are nested inside the following organizations:
 > Experiments and old modules that are not compatible with the current version of the portfolio (Currently I have no backend so all the Ruby on Rails and PHP modules are obsolete).
 - HTML/Pug/Haml
 - CSS/SCSS
-- Javascript
+- JavaScript
 - jQuery
 - Rails
 - PHP
