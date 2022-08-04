@@ -1,5 +1,3 @@
-[![GitHub stats][statsApi]][website]
-
 👋 Hi, I’m Miguel Rivas, a Frontend Developer from Dominican Republic living in Washington, DC.
 
 🎨 This is my [Portfolio][website].
@@ -10,7 +8,6 @@
 > I upload shorts about my experiments every Wednesday on my [Youtube Channel][youtube].
 
 <!-- YOUTUBE:START -->
-- [Phaser 3](https://www.youtube.com/watch?v=faHv5bk0XRs)
 <!-- YOUTUBE:END -->
 
 --------------
@@ -25,8 +22,6 @@
 - Web Components
 - jQuery
 - VueJs
-- Svelte
-- React
 - Webpack
 - ThreeJs
 - Phaser3
@@ -68,9 +63,16 @@
 - HTML/Pug/Haml
 - CSS/SCSS
 - JavaScript
+- VueJs
+- Svelte
+- React
 - jQuery
 - Rails
 - PHP
+
+--------------
+
+![jmiguelrivas][statsApi]
 
 [website]: https://miguel-rivas.github.io
 [nanoGridWebsite]: https://nano-grid.github.io
@@ -96,4 +98,4 @@
 
 [createIconsScript]: https://github.com/mr-desktop/shell/blob/master/createIcon.sh
 
-[statsApi]: https://github-readme-stats.vercel.app/api?username=jmiguelrivas&count_private=true&show_icons=true&theme=radical
+[statsApi]: https://komarev.com/ghpvc/?username=jmiguelrivas&label=Profile%20views&style=for-the-badge&color=red&label=Profile+Views
