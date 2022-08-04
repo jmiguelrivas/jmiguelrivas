@@ -8,6 +8,8 @@
 > I upload shorts about my experiments every Wednesday on my [Youtube Channel][youtube].
 
 <!-- YOUTUBE:START -->
+- [MR Universe - Blender + Unity](https://www.youtube.com/watch?v=6uZ5Ct-27xs)
+- [Phaser 3](https://www.youtube.com/watch?v=faHv5bk0XRs)
 <!-- YOUTUBE:END -->
 
 --------------
