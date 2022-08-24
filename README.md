@@ -8,6 +8,7 @@
 > I upload shorts about my experiments every Wednesday on my [Youtube Channel][youtube].
 
 <!-- YOUTUBE:START -->
+- [Avatar - Konva](https://www.youtube.com/watch?v=XWKzvWazwt8)
 - [Portfolio 2014 - Svelte](https://www.youtube.com/watch?v=CxEdTFO9NFw)
 - [Flipbook - ThreeJs](https://www.youtube.com/watch?v=g_EGSXLiLjI)
 - [MR Universe - Blender + Unity](https://www.youtube.com/watch?v=6uZ5Ct-27xs)
