@@ -8,11 +8,11 @@
 > I upload shorts about my experiments every Wednesday on my [Youtube Channel][youtube].
 
 <!-- YOUTUBE:START -->
+- [Bitmap Editor - Konva](https://www.youtube.com/watch?v=2cwJi7k47Bw)
 - [Tetravex - Sizzle](https://www.youtube.com/watch?v=XG95fpbK53M)
 - [Portfolio 2016 - React](https://www.youtube.com/watch?v=I42Y0NOo9Vw)
 - [Avatar - Konva](https://www.youtube.com/watch?v=XWKzvWazwt8)
 - [Portfolio 2014 - Svelte](https://www.youtube.com/watch?v=CxEdTFO9NFw)
-- [Flipbook - ThreeJs](https://www.youtube.com/watch?v=g_EGSXLiLjI)
 <!-- YOUTUBE:END -->
 
 --------------
