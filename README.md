@@ -8,11 +8,11 @@
 > I upload shorts about my experiments every Wednesday on my [Youtube Channel][youtube].
 
 <!-- YOUTUBE:START -->
+- [DC Recap](https://www.youtube.com/watch?v=FqRkLVGjJpU)
 - [3D Color Cube - ThreeJs](https://www.youtube.com/watch?v=xlOhfLFhq0c)
 - [Google Map](https://www.youtube.com/watch?v=7Am9nTUXNY0)
 - [Portfolio 2022 - VueJs + Konva + Blender + ThreeJs](https://www.youtube.com/watch?v=ss8B1pnSuEk)
 - [Bitmap Editor - Konva](https://www.youtube.com/watch?v=2cwJi7k47Bw)
-- [Weather](https://www.youtube.com/watch?v=4u-mzt5K6z0)
 <!-- YOUTUBE:END -->
 
 --------------
