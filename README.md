@@ -1,4 +1,4 @@
-👋 Hi, I’m Miguel Rivas, a Frontend Developer from Dominican Republic living in Washington, DC.
+👋 Hi, I’m Miguel Rivas, a Frontend Developer from Dominican Republic living in Spokane, WA.
 
 🎨 This is my [Portfolio][website].
 
