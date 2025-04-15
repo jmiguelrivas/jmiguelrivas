@@ -4,8 +4,10 @@ Passionate frontend developer with a strong focus on building custom web applica
 
 With years of experience across various industries, I've contributed to UI libraries, optimized performance, and collaborated closely with cross functional teams to deliver seamless user experiences. My expertise includes modern frontend frameworks, component-driven development, and testing methodologies using tools like Storybook and Vitest.
 
-🎨 Here is a link to my [Portfolio][website].
+🎨 Here is a link to my [Portfolio 2025][website].
 > In this portfolio Vue, React, and Angular have been replaced with Web Components. Because of this, you will be able to see the full structure when inspecting elements on the document.
+
+and here is a link to my previous [Portfolio 2022](https://miguel-rivas.github.io/).
 
 --------------
 I uploaded shorts about some of my experiments on my [Youtube Channel][youtube].
