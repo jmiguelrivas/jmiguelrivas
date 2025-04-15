@@ -1,106 +1,40 @@
-👋 Hi, I’m Miguel Rivas, a Frontend Developer from Dominican Republic living in Spokane, WA.
+👋 Hi, I’m Miguel Rivas.
 
-🎨 This is my [Portfolio][website].
+Passionate frontend developer with a strong focus on building custom web applications mostly using Vue2 and Vue3 with deep knowledge about Web Components.
 
-🐣 And [Nano Grid][nanoGridWebsite] (my second product).
+With years of experience across various industries, I've contributed to UI libraries, optimized performance, and collaborated closely with cross functional teams to deliver seamless user experiences. My expertise includes modern frontend frameworks, component-driven development, and testing methodologies using tools like Storybook and Vitest.
 
---------------
-> I upload shorts about my experiments every Wednesday on my [Youtube Channel][youtube].
-
-<!-- YOUTUBE:START -->
-- [360 Map](https://www.youtube.com/watch?v=P30QGFRfWgs)
-- [DC Recap](https://www.youtube.com/watch?v=FqRkLVGjJpU)
-- [3D Color Cube - ThreeJs](https://www.youtube.com/watch?v=xlOhfLFhq0c)
-- [Google Map](https://www.youtube.com/watch?v=7Am9nTUXNY0)
-- [Portfolio 2022 - VueJs + Konva + Blender + ThreeJs](https://www.youtube.com/watch?v=ss8B1pnSuEk)
-<!-- YOUTUBE:END -->
+🎨 Here is a link to my [Portfolio][website].
+> In this portfolio Vue, React, and Angular have been replaced with Web Components. Because of this, you will be able to see the full structure when inspecting elements on the document.
 
 --------------
-*All my repositories are nested inside the following organizations:*
+I uploaded shorts about some of my experiments on my [Youtube Channel][youtube].
 
-## [![Miguel Rivas Avatar][orgMiguelRivasAvatar] Miguel Rivas][orgMiguelRivas]
+- [3D Color Cube :: Walkthrough](https://www.youtube.com/watch?v=xlOhfLFhq0c) [ ThreeJs + Vue ]
 
-> Portfolio and all the modules related to it.
-- HTML/Pug/Haml
-- CSS/SCSS
-- JavaScript
-- Web Components
-- jQuery
-- VueJs
-- Webpack
-- ThreeJs
-- Phaser3
-- ChartJs
-- Konva
-- Firebase
+- [Matryoshka Portfolio 2022 :: Walkthrough](https://www.youtube.com/watch?v=ss8B1pnSuEk) [ Vue + Konva + Blender + ThreeJs ]
 
-## [![Nano Grid Avatar][orgNanoGridAvatar] Nano Grid][orgNanoGrid]
-> Modules related to Nano Grid (my second product).
-- Javascript
-- Web Components
-- VueJs
-- CSS/SCSS
+- [Goose Rescuing Game :: Walkthrough](https://www.youtube.com/shorts/faHv5bk0XRs) [ Phaser 3 + Vue ]
 
-## [![MR Desktop Avatar][orgMRDesktopAvatar] MR Desktop][orgMRDesktop]
-> Desktop applications and scripts, most applications are from the beginning of my career and some scripts were created to optimize my workflow (like the [Create Icon Script]([createIconsScript]) that is using imageMagick to generate icons for all the sizes needed in an android app).
-- Shell Scripts
-- Visual Basic
-- Pascal
-- C++
-- Flash
+- [Avatar Builder :: Walkthrough](https://www.youtube.com/shorts/I42Y0NOo9Vw) [ Konva + Vue ]
 
-## [![MR Mobile Avatar][orgMRMobileAvatar] MR Mobile][orgMRMobile]
-> Mobile applications that I have been working on.
-- Unity
-- Kotlin
+- [Portfolio 2016 :: Walkthrough](https://www.youtube.com/shorts/I42Y0NOo9Vw) [ React ] (Refactor from jQuery)
 
-## [![MR Modules Avatar][orgMRModulesAvatar] MR Modules][orgMRModules]
-> Node modules and forks of modules that I have been using.
-- JavaScript
-- VueJs
-- Svelte
-- Web Components
-- Typescript
-- CSS/SCSS
+- [Portfolio 2014 :: Walkthrough](https://www.youtube.com/shorts/CxEdTFO9NFw) [ Svelte ] (Refactor from jQuery)
 
-## [![MR Labs Avatar][orgMRLabsAvatar] MR Labs][orgMRLabs]
-> Experiments and old modules that are not compatible with the current version of the portfolio (Currently I have no backend so all the Ruby on Rails and PHP modules are obsolete).
-- HTML/Pug/Haml
-- CSS/SCSS
-- JavaScript
-- VueJs
-- Svelte
-- React
-- jQuery
-- Rails
-- PHP
+- [Portfolio 2017 :: Walkthrough](https://www.youtube.com/shorts/g_EGSXLiLjI) [ ThreeJs + Vue ]
 
---------------
+- [3D Map :: Walkthrough](https://www.youtube.com/shorts/WyylhEi-vFE) [ Blender + Konva + Vue]
 
-![jmiguelrivas][statsApi]
+- [3D Map :: 360 View](https://www.youtube.com/watch?v=P30QGFRfWgs) [ Blender + KonvaJs + Vue ]
 
-[website]: https://miguel-rivas.github.io
-[nanoGridWebsite]: https://nano-grid.github.io
+- [Universe Android App :: Walkthrough](https://www.youtube.com/shorts/6uZ5Ct-27xs) [ Blender + Unity]
+
+- [Tetravex Game :: Walkthrough](https://www.youtube.com/shorts/XG95fpbK53M) [ Sizzle ]
+
+- [Google Map :: Walkthrough](https://www.youtube.com/watch?v=7Am9nTUXNY0) [ GoogleMap Api + Vue]
+
+- [Weather App :: 3D Creation](https://www.youtube.com/shorts/4u-mzt5K6z0) [ Blender + Vue + ThreeJs ]
+
+[website]: https://jmiguelrivas.github.io
 [youtube]: https://www.youtube.com/channel/UC_ONp50_gBsbI1TsYPuFl6g
-
-[orgMiguelRivas]: https://github.com/miguel-rivas
-[orgMiguelRivasAvatar]: https://avatars.githubusercontent.com/u/70659353?s=16
-
-[orgNanoGrid]: https://github.com/nano-grid
-[orgNanoGridAvatar]: https://avatars.githubusercontent.com/u/106577237?s=16
-
-[orgMRDesktop]: https://github.com/mr-desktop
-[orgMRDesktopAvatar]: https://avatars.githubusercontent.com/u/97989185?s=16
-
-[orgMRMobile]: https://github.com/mr-mobile
-[orgMRMobileAvatar]: https://avatars.githubusercontent.com/u/97987761?s=16
-
-[orgMRModules]: https://github.com/mr-modules
-[orgMRModulesAvatar]: https://avatars.githubusercontent.com/u/97987463?s=16
-
-[orgMRLabs]: https://github.com/miguel-rivas-lab
-[orgMRLabsAvatar]: https://avatars.githubusercontent.com/u/80991270?s=16
-
-[createIconsScript]: https://github.com/mr-desktop/shell/blob/master/createIcon.sh
-
-[statsApi]: https://komarev.com/ghpvc/?username=jmiguelrivas&label=Profile%20views&style=for-the-badge&color=red&label=Profile+Views
