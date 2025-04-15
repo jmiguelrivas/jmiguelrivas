@@ -10,31 +10,31 @@ With years of experience across various industries, I've contributed to UI libra
 --------------
 I uploaded shorts about some of my experiments on my [Youtube Channel][youtube].
 
-- [3D Color Cube :: Walkthrough](https://www.youtube.com/watch?v=xlOhfLFhq0c) [ ThreeJs + Vue ]
-
 - [Matryoshka Portfolio 2022 :: Walkthrough](https://www.youtube.com/watch?v=ss8B1pnSuEk) [ Vue + Konva + Blender + ThreeJs ]
 
 - [Goose Rescuing Game :: Walkthrough](https://www.youtube.com/shorts/faHv5bk0XRs) [ Phaser 3 + Vue ]
 
-- [Avatar Builder :: Walkthrough](https://www.youtube.com/shorts/I42Y0NOo9Vw) [ Konva + Vue ]
+- [Universe Android App :: Walkthrough](https://www.youtube.com/shorts/6uZ5Ct-27xs) [ Blender + Unity]
+
+- [Avatar Builder :: Walkthrough](https://www.youtube.com/shorts/XWKzvWazwt8) [ Konva + Vue ]
 
 - [Portfolio 2016 :: Walkthrough](https://www.youtube.com/shorts/I42Y0NOo9Vw) [ React ] (Refactor from jQuery)
 
 - [Portfolio 2014 :: Walkthrough](https://www.youtube.com/shorts/CxEdTFO9NFw) [ Svelte ] (Refactor from jQuery)
 
-- [Portfolio 2017 :: Walkthrough](https://www.youtube.com/shorts/g_EGSXLiLjI) [ ThreeJs + Vue ]
+- [Flipbook :: Walkthrough](https://www.youtube.com/shorts/g_EGSXLiLjI) [ ThreeJs + Vue ]
 
 - [3D Map :: Walkthrough](https://www.youtube.com/shorts/WyylhEi-vFE) [ Blender + Konva + Vue]
 
 - [3D Map :: 360 View](https://www.youtube.com/watch?v=P30QGFRfWgs) [ Blender + KonvaJs + Vue ]
-
-- [Universe Android App :: Walkthrough](https://www.youtube.com/shorts/6uZ5Ct-27xs) [ Blender + Unity]
 
 - [Tetravex Game :: Walkthrough](https://www.youtube.com/shorts/XG95fpbK53M) [ Sizzle ]
 
 - [Google Map :: Walkthrough](https://www.youtube.com/watch?v=7Am9nTUXNY0) [ GoogleMap Api + Vue]
 
 - [Weather App :: 3D Creation](https://www.youtube.com/shorts/4u-mzt5K6z0) [ Blender + Vue + ThreeJs ]
+
+- [3D Color Cube :: Walkthrough](https://www.youtube.com/watch?v=xlOhfLFhq0c) [ ThreeJs + Vue ]
 
 [website]: https://jmiguelrivas.github.io
 [youtube]: https://www.youtube.com/channel/UC_ONp50_gBsbI1TsYPuFl6g
