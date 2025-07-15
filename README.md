@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Miguel Rivas.
 
-Passionate frontend developer with a strong focus on building custom web applications mostly using Vue2 and Vue3 with deep knowledge about React and Web Components.
+Passionate frontend developer with a strong focus on building custom web applications mostly using Vue with deep knowledge about React and Web Components.
 
 With years of experience across various industries, I've contributed to UI libraries, optimized performance, and collaborated closely with cross functional teams to deliver seamless user experiences. My expertise includes modern frontend frameworks, component-driven development, and testing methodologies using tools like Storybook and Vitest.
 
