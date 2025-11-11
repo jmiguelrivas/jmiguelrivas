@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Miguel Rivas.
+# 👋 Olá!
 
 Passionate frontend developer with a strong focus on building custom web applications mostly using Vue with deep knowledge about React and Web Components.
 
