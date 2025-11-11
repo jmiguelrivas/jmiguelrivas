@@ -18,7 +18,7 @@ A personal portfolio site built using custom Web Components and a minimal design
 Morfosis is a **Flutter app** for offline media conversion, focused on privacy and speed. Powered by FFmpeg, it lets users convert audio and video files between multiple formats entirely on their device, without requiring an internet connection.
 
 ### LoM DB / 2024-12-05
-[![LOM DB Logo](https://lomdb.github.io/img/lomdb-preview.webp)](https://lomdb.github.io)
+[![LoM DB Preview](https://lomdb.github.io/img/svg/lom_header-draco.svg)](https://lomdb.github.io)
 
 An interactive visual archive tracking all known server merges and top player data across regions in Legend of Mushrooms, built for clarity and community insight.
 
