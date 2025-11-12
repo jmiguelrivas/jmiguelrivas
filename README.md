@@ -35,3 +35,7 @@ Nano Grid is a **Node module** and frontend toolkit powered by CSS and Web Compo
 [![Romala](https://rama-o.github.io/img/preview-romala.webp)](https://github.com/rama-o/romala)
 
 Romala is a **Debian package** that provides an extended keyboard layout for Romance languages. It includes dead keys, accents, and a rich set of math, logic, and special symbols, making typing in multiple languages fast, efficient, and expressive.
+
+![Romala keyboard](https://raw.githubusercontent.com/rama-o/romala/master/keyboard.webp)
+
+> Keyboard preview
