@@ -1,13 +1,13 @@
 # 👋 Olá!
 
-I'm a passionate frontend developer with a strong focus on building custom web applications mostly using Vue with deep knowledge about React and Web Components.
+I'm a passionate **frontend developer** with a strong focus on building custom web applications mostly using **Vue** with deep knowledge about **React** and **Web Components**.
 
-With years of experience across various industries, I've contributed to UI libraries, optimized performance, and collaborated closely with cross functional teams to deliver seamless user experiences. My expertise includes modern frontend frameworks, component-driven development, and testing methodologies using tools like Storybook and Vitest.
+With years of experience across various industries, I've contributed to **UI libraries**, optimized performance, and collaborated closely with cross functional teams to deliver seamless user experiences. My expertise includes modern frontend frameworks, component-driven development, and testing methodologies using tools like **Storybook** and **Vitest**.
 
 ## Portfolio 2025
 [![Portfolio 2025 Logo](https://jmiguelrivas.github.io/0_global/img/preview.webp)](https://jmiguelrivas.github.io)
 
-A personal portfolio site built using custom Web Components and a minimal design system, showcasing projects and experiments with modern frontend workflows.
+A personal portfolio site built using custom **Web Components** and a minimal design system, showcasing projects and experiments with modern frontend workflows.
 
 ## Morfosis / 2025-09-06
 
