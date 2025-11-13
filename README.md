@@ -19,11 +19,20 @@ Morfosis is a **Flutter app** for offline media conversion, focused on privacy a
 > App preview
 
 ## LoM DB / 2024-12-05
-[![LOM DB Logo](https://lomdb.github.io/img/lomdb-preview.webp)](https://lomdb.github.io)
+[![LoM DB Logo](https://lomdb.github.io/img/lomdb-preview.webp)](https://lomdb.github.io)
 An interactive visual archive tracking all known server merges and top player data across regions in Legend of Mushrooms, built for clarity and community insight.
 
 [![LoM DB Preview](https://lomdb.github.io/img/svg/lom_header-draco.svg?v=2)](https://lomdb.github.io)
 > Draco Ascension SVG Cinematic
+
+![3D Graph](https://raw.githubusercontent.com/lomdb/lomdb.github.io/master/metadata/0-min.webp)
+> Servers' Size Comparison Graph
+
+![Merge Tracker](https://raw.githubusercontent.com/lomdb/lomdb.github.io/master/metadata/1-min.webp)
+> Merge Tracker
+
+![Servers' age](https://raw.githubusercontent.com/lomdb/lomdb.github.io/master/metadata/2-min.webp)
+> Servers' Age
 
 ## Nano Grid / 2021-03-21
 
