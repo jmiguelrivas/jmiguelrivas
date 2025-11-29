@@ -9,8 +9,9 @@ With years of experience across various industries, I've contributed to **UI lib
 ## Open Source Projects
 
 <details name="project">
-<summary><img src="https://img.shields.io/badge/Salishan%20Keyboard-2025/11/15-blue?style=for-the-badge" alt="Badge" /></summary>
-
+<summary>
+Salishan Keyboard / 2025-11-15
+</summary>
 
 [![Salishan](https://raw.githubusercontent.com/salishan/salishan.github.io/master/metadata/mobile.webp)](https://salishan.github.io)
 
