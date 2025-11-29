@@ -6,15 +6,23 @@ I'm a passionate **frontend developer** with a strong focus on building custom w
 
 With years of experience across various industries, I've contributed to **UI libraries**, optimized performance, and collaborated closely with cross functional teams to deliver seamless user experiences. My expertise includes modern frontend frameworks, component-driven development, and testing methodologies using tools like **Storybook** and **Vitest**.
 
-## Salishan / 2025-11-15
+## Open Source Projects
+
+<details name="project">
+<summary><img src="https://img.shields.io/badge/Salishan%20Keyboard-2025/11/15-blue?style=for-the-badge" alt="Badge" /></summary>
+
 
 [![Salishan](https://raw.githubusercontent.com/salishan/salishan.github.io/master/metadata/mobile.webp)](https://salishan.github.io)
 
 **Salishan** is a **keyboard layout for Salishan and neighboring Indigenous languages of the Pacific Northwest**. It extends the standard English keyboard with **dead keys for glottalization, acute accent, tilde, and other diacritics**, enabling efficient typing of **ejective, glottalized, and lateral consonants**, as well as **special vowels** used across multiple Salishan languages. The layout also includes **combining diacritics for rare tonal or phonetic markings**, making it a comprehensive tool for **linguists, language learners, and community members**.
 
 [![Salishan Keyboard Layout](https://raw.githubusercontent.com/salishan/salishan/master/metadata/keyboard.webp)](https://salishan.github.io)
+</details>
 
-## Morfosis / 2025-09-06
+<details name="project">
+<summary>
+Morfosis / 2025-09-06
+</summary>
 
 [![Morfosis](https://rama-o.github.io/img/preview-morfosis.webp)](https://github.com/rama-o/morfosis)
 
@@ -22,8 +30,14 @@ Morfosis is a **Flutter app** for offline media conversion, focused on privacy a
 
 ![Morfosis Preview](https://raw.githubusercontent.com/rama-o/morfosis/main/morfosis-preview-min.webp)
 > App preview
+</details>
 
-## LoM DB / 2024-12-05
+
+<details name="project">
+<summary>
+LoM DB / 2024-12-05
+</summary>
+
 [![LoM DB Logo](https://lomdb.github.io/img/lomdb-preview.webp)](https://lomdb.github.io)
 An interactive visual archive tracking all known server merges and top player data across regions in Legend of Mushrooms, built for clarity and community insight.
 
@@ -38,14 +52,22 @@ An interactive visual archive tracking all known server merges and top player da
 
 ![Servers' age](https://raw.githubusercontent.com/lomdb/lomdb.github.io/master/metadata/2-min.webp)
 > Servers' Age
+</details>
 
-## Nano Grid / 2021-03-21
+<details name="project">
+<summary>
+Nano Grid / 2021-03-21
+</summary>
 
 [![Nano Grid](https://rama-o.github.io/img/preview-nano-grid.webp)](https://github.com/rama-o/nano-grid)
 
 Nano Grid is a **Node module** and frontend toolkit powered by CSS and Web Components. It provides a lightweight, modular framework to build responsive layouts and interactive interfaces with minimal dependencies.
+</details>
 
-## Romala / 2021-03-05
+<details name="project">
+<summary>
+Romala / 2021-03-05
+</summary>
 
 [![Romala](https://rama-o.github.io/img/preview-romala.webp)](https://github.com/rama-o/romala)
 
@@ -54,3 +76,4 @@ Romala is a **Debian package** that provides an extended keyboard layout for Rom
 ![Romala keyboard](https://raw.githubusercontent.com/rama-o/romala/master/keyboard.webp)
 
 > Keyboard preview
+</details>
