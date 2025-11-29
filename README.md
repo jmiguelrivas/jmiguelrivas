@@ -8,15 +8,17 @@ With years of experience across various industries, I've contributed to **UI lib
 
 ## Organizations
 
-<p style="display:flex; gap:0.5rem;">
+<p>
   <a href="https://github.com/rama-o" target="_blank">
-    <img src="https://avatars.githubusercontent.com/rama-o" alt="Rama-o" width="40" height="40" style="border-radius:50%;" />
+    <img src="https://avatars.githubusercontent.com/rama-o" alt="Rama-o" width="40" height="40" />
   </a>
+  &nbsp;
   <a href="https://github.com/lomdb" target="_blank">
-    <img src="https://avatars.githubusercontent.com/lomdb" alt="LoM DB" width="40" height="40" style="border-radius:50%;" />
+    <img src="https://avatars.githubusercontent.com/lomdb" alt="LoM DB" width="40" height="40" />
   </a>
+  &nbsp;
   <a href="https://github.com/salishan" target="_blank">
-    <img src="https://avatars.githubusercontent.com/salishan" alt="Salishan" width="40" height="40" style="border-radius:50%;" />
+    <img src="https://avatars.githubusercontent.com/salishan" alt="Salishan" width="40" height="40" />
   </a>
 </p>
 
