@@ -11,6 +11,7 @@ With years of experience across various industries, I've contributed to **UI lib
 <details name="project">
 <summary><img src="https://img.shields.io/badge/Salishan%20Keyboard-2025/11/15-blue?style=for-the-badge" alt="Badge" /></summary>
 
+
 [![Salishan](https://raw.githubusercontent.com/salishan/salishan.github.io/master/metadata/mobile.webp)](https://salishan.github.io)
 
 **Salishan** is a **keyboard layout for Salishan and neighboring Indigenous languages of the Pacific Northwest**. It extends the standard English keyboard with **dead keys for glottalization, acute accent, tilde, and other diacritics**, enabling efficient typing of **ejective, glottalized, and lateral consonants**, as well as **special vowels** used across multiple Salishan languages. The layout also includes **combining diacritics for rare tonal or phonetic markings**, making it a comprehensive tool for **linguists, language learners, and community members**.
@@ -20,7 +21,7 @@ With years of experience across various industries, I've contributed to **UI lib
 
 <details name="project">
 <summary>
-  <img src="https://img.shields.io/badge/Morfosis-2025/09/06-blue?style=for-the-badge" alt="Badge" />
+Morfosis / 2025-09-06
 </summary>
 
 [![Morfosis](https://rama-o.github.io/img/preview-morfosis.webp)](https://github.com/rama-o/morfosis)
@@ -31,9 +32,10 @@ Morfosis is a **Flutter app** for offline media conversion, focused on privacy a
 > App preview
 </details>
 
+
 <details name="project">
 <summary>
-  <img src="https://img.shields.io/badge/LoM_DB-2024/12/05-blue?style=for-the-badge" alt="Badge" />
+LoM DB / 2024-12-05
 </summary>
 
 [![LoM DB Logo](https://lomdb.github.io/img/lomdb-preview.webp)](https://lomdb.github.io)
@@ -54,7 +56,7 @@ An interactive visual archive tracking all known server merges and top player da
 
 <details name="project">
 <summary>
-  <img src="https://img.shields.io/badge/Nano_Grid-2021/03/21-blue?style=for-the-badge" alt="Badge" />
+Nano Grid / 2021-03-21
 </summary>
 
 [![Nano Grid](https://rama-o.github.io/img/preview-nano-grid.webp)](https://github.com/rama-o/nano-grid)
@@ -64,7 +66,7 @@ Nano Grid is a **Node module** and frontend toolkit powered by CSS and Web Compo
 
 <details name="project">
 <summary>
-  <img src="https://img.shields.io/badge/Romala-2021/03/05-blue?style=for-the-badge" alt="Badge" />
+Romala / 2021-03-05
 </summary>
 
 [![Romala](https://rama-o.github.io/img/preview-romala.webp)](https://github.com/rama-o/romala)
