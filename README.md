@@ -1,18 +1,19 @@
 ![Mountains](img/cover.svg)
 
-<!-- Tech badges -->
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge)
-![SVG](https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge)
-![Web Components](https://img.shields.io/badge/Web_Components-669?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge)
-![Vitest](https://img.shields.io/badge/Vitest-646cff?style=for-the-badge)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge)
+<!-- Tech badges with pastel colors -->
+![HTML](https://img.shields.io/badge/HTML-F5D0C5?style=for-the-badge)
+![SVG](https://img.shields.io/badge/SVG-FDE2A8?style=for-the-badge)
+![Web Components](https://img.shields.io/badge/Web_Components-D0E8F2?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-C3D4E3?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-FBF5B5?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-D1E8D1?style=for-the-badge)
+![Vitest](https://img.shields.io/badge/Vitest-E2E0FF?style=for-the-badge)
+![Storybook](https://img.shields.io/badge/Storybook-FDCFE8?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F2C1BD?style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/Vue.js-D0F0E3?style=for-the-badge)
+![React](https://img.shields.io/badge/React-D8F0FA?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FEF3C7?style=for-the-badge)
+
 
 # 👋 Olá!
 
