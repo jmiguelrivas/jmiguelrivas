@@ -8,7 +8,7 @@ With years of experience across various industries, I've contributed to **UI lib
 
 ## Open Source Projects
 
-<details name="project">
+<details name="project" open>
 <summary>
 Salishan Keyboard / 2025-11-15
 </summary>
