@@ -15,7 +15,7 @@
 ![React](https://img.shields.io/badge/React-D8F0FA?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FEF3C7?style=for-the-badge)
 
-# 👋 Olá!
+# Olá!
 
 I'm a passionate **frontend developer** with a strong focus on building custom web applications mostly using **Vue** with deep knowledge about **React** and **Web Components**.
 
