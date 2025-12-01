@@ -117,7 +117,7 @@ Romala is a **Debian package** that provides an extended keyboard layout for Rom
 3D Visualizer / 2022-01-23
 </summary>
 
-[![3D Visualizer Preview](https://raw.githubusercontent.com/3d-visualizer/3d-visualizer.github.io/refs/heads/main/img/visualizer-preview.webp)](https://3d-visualizer.github.io/)
+[![3D Visualizer Preview](https://raw.githubusercontent.com/3d-visualizer/3d-visualizer.github.io/refs/heads/main/img/visualizer-preview.webp)](https://3d-visualizer.github.io/?play)
 
 A lightweight visualizer built with native Web Components and SVG, created as a refactor of a previous project that originally used Vue.js, Blender, and Konva. The original version started as a Google Maps-based app showing the cities where I’ve lived, studied, or worked. But as the map grew too large and visually restrictive, the project evolved into a custom-designed world.
 </details>
