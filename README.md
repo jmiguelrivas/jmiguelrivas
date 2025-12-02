@@ -126,7 +126,7 @@ Romala is a **Debian package** that provides an extended keyboard layout for Rom
 
 <details name="experiments" open>
 <summary>
-3D Map / 2022-01-23
+3D Map / 2022/01/24
 </summary>
 
 [![3D Visualizer Preview](https://raw.githubusercontent.com/3d-visualizer/3d-visualizer.github.io/refs/heads/main/map/img/visualizer-preview.webp)](https://3d-visualizer.github.io/map/?play)
@@ -137,11 +137,22 @@ A lightweight visualizer built with native Web Components and SVG, created as a 
 
 <details name="experiments" open>
 <summary>
-3D CSS House / 2020-12-27
+3D CSS House / 2022/02/02
 </summary>
 
 [![3D House Preview](https://raw.githubusercontent.com/3d-visualizer/3d-visualizer.github.io/refs/heads/main/css-house/img/house-preview.webp)](https://3d-visualizer.github.io/css-house)
 
 A lightweight 3D house visualizer built entirely with modern CSS and a bit of nested structure for clarity. It began as an experiment in recreating a simple architectural scene, but quickly grew into a full mini-environment with walls, roof, chimney, base, fence, and ground. The project uses pure CSS 3D transforms, no frameworks, libraries, or external rendering tools to generate depth, perspective, and animation, resulting in a clean, self-contained visual demo.
+
+</details>
+
+<details name="experiments" open>
+<summary>
+3D Cube / 2021/02/27
+</summary>
+
+[![3D Cube Preview](https://raw.githubusercontent.com/3d-visualizer/3d-visualizer.github.io/refs/heads/main/cube/img/cube-preview.webp)](https://3d-visualizer.github.io/cube)
+
+A 3D color cube visualizer built with native Web Components and Three.js, this project renders thousands of colored cubes in a navigable 3D space. It includes optional grid and guide lines for orientation, interactive camera controls via OrbitControls, and a responsive renderer that adapts to window resizing, providing an intuitive and visually engaging way to explore color relationships in three dimensions.
 
 </details>
