@@ -116,20 +116,6 @@ Romala is a **Debian package** that provides an extended keyboard layout for Rom
 
 ## Experiments
 
-<details name="experiments" open>
-<summary>
-3D Map / 2022/01/24
-
-[![GitHub Source](https://img.shields.io/badge/GitHub%20Source-66b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3d-visualizer/3d-visualizer.github.io/tree/main/map) [![Website](https://img.shields.io/badge/Website-696?style=for-the-badge&logo=github&logoColor=white)](https://3d-visualizer.github.io/map/?play)
-
-</summary>
-
-[![3D Visualizer Preview](https://raw.githubusercontent.com/3d-visualizer/3d-visualizer.github.io/refs/heads/main/map/img/visualizer-preview.webp)](https://3d-visualizer.github.io/map/?play)
-
-A lightweight visualizer built with native Web Components and SVG, created as a refactor of a previous project that originally used Vue.js, Blender, and Konva. The original version started as a Google Maps-based app showing the cities where I’ve lived, studied, or worked. But as the map grew too large and visually restrictive, the project evolved into a custom-designed world.
-
-</details>
-
 <details name="experiments">
 <summary>
 3D CSS House / 2022/02/02
@@ -141,6 +127,20 @@ A lightweight visualizer built with native Web Components and SVG, created as a 
 [![3D House Preview](https://raw.githubusercontent.com/3d-visualizer/3d-visualizer.github.io/refs/heads/main/css-house/img/house-preview.webp)](https://3d-visualizer.github.io/css-house)
 
 A lightweight 3D house visualizer built entirely with modern CSS and a bit of nested structure for clarity. It began as an experiment in recreating a simple architectural scene, but quickly grew into a full mini-environment with walls, roof, chimney, base, fence, and ground. The project uses pure CSS 3D transforms, no frameworks, libraries, or external rendering tools to generate depth, perspective, and animation, resulting in a clean, self-contained visual demo.
+
+</details>
+
+<details name="experiments" open>
+<summary>
+3D Map / 2022/01/24
+
+[![GitHub Source](https://img.shields.io/badge/GitHub%20Source-66b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3d-visualizer/3d-visualizer.github.io/tree/main/map) [![Website](https://img.shields.io/badge/Website-696?style=for-the-badge&logo=github&logoColor=white)](https://3d-visualizer.github.io/map/?play)
+
+</summary>
+
+[![3D Visualizer Preview](https://raw.githubusercontent.com/3d-visualizer/3d-visualizer.github.io/refs/heads/main/map/img/visualizer-preview.webp)](https://3d-visualizer.github.io/map/?play)
+
+A lightweight visualizer built with native Web Components and SVG, created as a refactor of a previous project that originally used Vue.js, Blender, and Konva. The original version started as a Google Maps-based app showing the cities where I’ve lived, studied, or worked. But as the map grew too large and visually restrictive, the project evolved into a custom-designed world.
 
 </details>
 
