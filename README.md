@@ -47,6 +47,8 @@ With years of experience across various industries, I've contributed to **UI lib
 Salishan Keyboard / 2025-11-15
 </summary>
 
+[![GitHub](https://img.shields.io/badge/GitHub%20Source-66b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salishan/salishan) [![Landing Page](https://img.shields.io/badge/Landing%20Page-696?style=for-the-badge&logo=github&logoColor=white)](https://salishan.github.io)
+
 [![Salishan](https://raw.githubusercontent.com/salishan/salishan.github.io/master/metadata/mobile.webp)](https://salishan.github.io)
 
 **Salishan** is a **keyboard layout for Salishan and neighboring Indigenous languages of the Pacific Northwest**. It extends the standard English keyboard with **dead keys for glottalization, acute accent, tilde, and other diacritics**, enabling efficient typing of **ejective, glottalized, and lateral consonants**, as well as **special vowels** used across multiple Salishan languages. The layout also includes **combining diacritics for rare tonal or phonetic markings**, making it a comprehensive tool for **linguists, language learners, and community members**.
