@@ -45,9 +45,9 @@ With years of experience across various industries, I've contributed to **UI lib
 <details name="project">
 <summary>
 Salishan Keyboard / 2025-11-15
-</summary>
 
-[![GitHub](https://img.shields.io/badge/GitHub%20Source-66b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salishan/salishan) [![Landing Page](https://img.shields.io/badge/Landing%20Page-696?style=for-the-badge&logo=github&logoColor=white)](https://salishan.github.io)
+[![GitHub Source](https://img.shields.io/badge/GitHub%20Source-66b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salishan/salishan) [![Website](https://img.shields.io/badge/Website-696?style=for-the-badge&logo=github&logoColor=white)](https://salishan.github.io)
+</summary>
 
 [![Salishan](https://raw.githubusercontent.com/salishan/salishan.github.io/master/metadata/mobile.webp)](https://salishan.github.io)
 
@@ -60,9 +60,12 @@ Salishan Keyboard / 2025-11-15
 <details name="project">
 <summary>
 Morfosis / 2025-09-06
+
+[![GitHub Source](https://img.shields.io/badge/GitHub%20Source-66b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rama-o/morfosis) [![Website](https://img.shields.io/badge/Website-696?style=for-the-badge&logo=github&logoColor=white)](https://rama-o.github.io)
+
 </summary>
 
-[![Morfosis](https://rama-o.github.io/img/preview-morfosis.webp)](https://github.com/rama-o/morfosis)
+[![Morfosis](https://rama-o.github.io/img/preview-morfosis.webp)](https://rama-o.github.io/morfosis)
 
 Morfosis is a **Flutter app** for offline media conversion, focused on privacy and speed. Powered by FFmpeg, it lets users convert audio and video files between multiple formats entirely on their device, without requiring an internet connection.
 
@@ -75,9 +78,13 @@ Morfosis is a **Flutter app** for offline media conversion, focused on privacy a
 <details name="project">
 <summary>
 LoM DB / 2024-12-05
+
+[![GitHub Source](https://img.shields.io/badge/GitHub%20Source-66b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lomdb/lomdb.github.io) [![Website](https://img.shields.io/badge/Website-696?style=for-the-badge&logo=github&logoColor=white)](https://lomdb.github.io)
 </summary>
 
+
 [![LoM DB Logo](https://lomdb.github.io/img/lomdb-preview.webp)](https://lomdb.github.io)
+
 An interactive visual archive tracking all known server merges and top player data across regions in Legend of Mushrooms, built for clarity and community insight.
 
 [![LoM DB Preview](https://lomdb.github.io/img/svg/lom_header-draco.svg?v=2)](https://lomdb.github.io)
@@ -101,9 +108,10 @@ An interactive visual archive tracking all known server merges and top player da
 <details name="project">
 <summary>
 Nano Grid / 2021-03-21
-</summary>
 
-[![Nano Grid](https://rama-o.github.io/img/preview-nano-grid.webp)](https://github.com/rama-o/nano-grid)
+[![GitHub Source](https://img.shields.io/badge/GitHub%20Source-66b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rama-o/nano-grid) [![Website](https://img.shields.io/badge/Website-966?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rama-o/nano-grid)
+
+</summary>
 
 Nano Grid is a **Node module** and frontend toolkit powered by CSS and Web Components. It provides a lightweight, modular framework to build responsive layouts and interactive interfaces with minimal dependencies.
 
@@ -112,9 +120,10 @@ Nano Grid is a **Node module** and frontend toolkit powered by CSS and Web Compo
 <details name="project">
 <summary>
 Romala / 2021-03-05
-</summary>
 
-[![Romala](https://rama-o.github.io/img/preview-romala.webp)](https://github.com/rama-o/romala)
+[![GitHub Source](https://img.shields.io/badge/GitHub%20Source-66b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rama-o/romala) [![Website](https://img.shields.io/badge/Website-966?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rama-o/romala)
+
+</summary>
 
 Romala is a **Debian package** that provides an extended keyboard layout for Romance languages. It includes dead keys, accents, and a rich set of math, logic, and special symbols, making typing in multiple languages fast, efficient, and expressive.
 
@@ -129,6 +138,9 @@ Romala is a **Debian package** that provides an extended keyboard layout for Rom
 <details name="experiments" open>
 <summary>
 3D Map / 2022/01/24
+
+[![GitHub Source](https://img.shields.io/badge/GitHub%20Source-66b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3d-visualizer/3d-visualizer.github.io/tree/main/map) [![Website](https://img.shields.io/badge/Website-696?style=for-the-badge&logo=github&logoColor=white)](https://3d-visualizer.github.io/map/?play)
+
 </summary>
 
 [![3D Visualizer Preview](https://raw.githubusercontent.com/3d-visualizer/3d-visualizer.github.io/refs/heads/main/map/img/visualizer-preview.webp)](https://3d-visualizer.github.io/map/?play)
@@ -140,7 +152,10 @@ A lightweight visualizer built with native Web Components and SVG, created as a 
 <details name="experiments">
 <summary>
 3D CSS House / 2022/02/02
+
+[![GitHub Source](https://img.shields.io/badge/GitHub%20Source-66b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3d-visualizer/3d-visualizer.github.io/tree/main/css-house) [![Website](https://img.shields.io/badge/Website-696?style=for-the-badge&logo=github&logoColor=white)](https://3d-visualizer.github.io/css-house)
 </summary>
+
 
 [![3D House Preview](https://raw.githubusercontent.com/3d-visualizer/3d-visualizer.github.io/refs/heads/main/css-house/img/house-preview.webp)](https://3d-visualizer.github.io/css-house)
 
@@ -151,6 +166,8 @@ A lightweight 3D house visualizer built entirely with modern CSS and a bit of ne
 <details name="experiments">
 <summary>
 3D Cube / 2021/02/27
+
+[![GitHub Source](https://img.shields.io/badge/GitHub%20Source-66b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3d-visualizer/3d-visualizer.github.io/tree/main/cube) [![Website](https://img.shields.io/badge/Website-696?style=for-the-badge&logo=github&logoColor=white)](https://3d-visualizer.github.io/cube)
 </summary>
 
 [![3D Cube Preview](https://raw.githubusercontent.com/3d-visualizer/3d-visualizer.github.io/refs/heads/main/cube/img/cube-preview.webp)](https://3d-visualizer.github.io/cube)
@@ -164,7 +181,10 @@ A 3D color cube visualizer built with native Web Components and Three.js, this p
 <details name="research">
 <summary>
 Bounce Sine-Based Oscillation
+
+[![GitHub Source](https://img.shields.io/badge/GitHub%20Source-66b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmiguelrivas/jmiguelrivas.github.io/tree/main/bounce) [![Website](https://img.shields.io/badge/Website-696?style=for-the-badge&logo=github&logoColor=white)](https://jmiguelrivas.github.io/bounce)
 </summary>
+
 
 [![Bounce Preview](https://raw.githubusercontent.com/jmiguelrivas/jmiguelrivas.github.io/refs/heads/main/bounce/img/bounce-preview.webp)](https://jmiguelrivas.github.io/bounce)
 
