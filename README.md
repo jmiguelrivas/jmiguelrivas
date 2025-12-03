@@ -42,7 +42,7 @@ With years of experience across various industries, I've contributed to **UI lib
 
 ## Open Source Projects
 
-<details name="project" open>
+<details name="project">
 <summary>
 Salishan Keyboard / 2025-11-15
 </summary>
@@ -135,7 +135,7 @@ A lightweight visualizer built with native Web Components and SVG, created as a 
 
 </details>
 
-<details name="experiments" open>
+<details name="experiments">
 <summary>
 3D CSS House / 2022/02/02
 </summary>
@@ -146,7 +146,7 @@ A lightweight 3D house visualizer built entirely with modern CSS and a bit of ne
 
 </details>
 
-<details name="experiments" open>
+<details name="experiments">
 <summary>
 3D Cube / 2021/02/27
 </summary>
@@ -154,5 +154,18 @@ A lightweight 3D house visualizer built entirely with modern CSS and a bit of ne
 [![3D Cube Preview](https://raw.githubusercontent.com/3d-visualizer/3d-visualizer.github.io/refs/heads/main/cube/img/cube-preview.webp)](https://3d-visualizer.github.io/cube)
 
 A 3D color cube visualizer built with native Web Components and Three.js, this project renders thousands of colored cubes in a navigable 3D space. It includes optional grid and guide lines for orientation, interactive camera controls via OrbitControls, and a responsive renderer that adapts to window resizing, providing an intuitive and visually engaging way to explore color relationships in three dimensions.
+
+</details>
+
+## Research
+
+<details name="research">
+<summary>
+Bounce Sine-Based Oscillation
+</summary>
+
+[![Bounce Preview](https://raw.githubusercontent.com/jmiguelrivas/jmiguelrivas.github.io/refs/heads/main/bounce/img/bounce-preview.webp)](https://jmiguelrivas.github.io/bounce)
+
+This project aims to simplify how bouncing animations are calculated by removing the need for traditional conditional checks when an object reaches the edges of the screen. Instead, it uses a continuous filtering approach that naturally reverses direction, creating a smooth bounce effect without explicit boundary conditions. This technique can be applied to any scenario where an element needs to rebound (such as a ball moving around the screen or other looping, oscillating animations) making the underlying motion logic cleaner, more elegant, and easier to reuse in different programs.
 
 </details>
