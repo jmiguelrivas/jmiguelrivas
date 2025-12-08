@@ -161,13 +161,13 @@ A 3D color cube visualizer built with native Web Components and Three.js, this p
 
 <details name="research">
 <summary>
-Bounce Sine-Based Oscillation
+Sine-Based Oscillation
 
 [![GitHub Source](https://img.shields.io/badge/GitHub%20Source-66b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmiguelrivas/jmiguelrivas.github.io/tree/main/bounce) [![Website](https://img.shields.io/badge/Website-696?style=for-the-badge&logo=github&logoColor=white)](https://jmiguelrivas.github.io/bounce)
 </summary>
 
 
-[![Bounce Preview](https://raw.githubusercontent.com/jmiguelrivas/jmiguelrivas.github.io/refs/heads/main/bounce/img/bounce-preview.webp)](https://jmiguelrivas.github.io/bounce)
+[![Bounce Preview](img/og-preview-research_bounce.webp)
 
 This project aims to simplify how bouncing animations are calculated by removing the need for traditional conditional checks when an object reaches the edges of the screen. Instead, it uses a continuous filtering approach that naturally reverses direction, creating a smooth bounce effect without explicit boundary conditions. This technique can be applied to any scenario where an element needs to rebound (such as a ball moving around the screen or other looping, oscillating animations) making the underlying motion logic cleaner, more elegant, and easier to reuse in different programs.
 
