@@ -38,11 +38,11 @@ Salishan Keyboard / 2025-11-15
 
 </details>
 
-<details name="project">
+<details name="project" open>
 <summary>
 Morfosis / 2025-09-06
 
-[![GitHub Source](https://img.shields.io/badge/GitHub%20Source-66b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rama-o/morfosis) [![Website](https://img.shields.io/badge/Website-696?style=for-the-badge&logo=github&logoColor=white)](https://rama-o.github.io)
+[![GitHub Source](https://img.shields.io/badge/GitHub%20Source-66b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmiguelrivas/morfosis) [![Website](https://img.shields.io/badge/Website-966?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmiguelrivas/morfosis)
 
 </summary>
 
@@ -130,7 +130,7 @@ A lightweight 3D house visualizer built entirely with modern CSS and a bit of ne
 
 </details>
 
-<details name="experiments" open>
+<details name="experiments">
 <summary>
 3D Map / 2022/01/24
 
