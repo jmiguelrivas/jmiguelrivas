@@ -50,7 +50,9 @@ Morfosis / 2025-09-06
 
 Morfosis is a **Flutter app** for offline media conversion, focused on privacy and speed. Powered by FFmpeg, it lets users convert audio and video files between multiple formats entirely on their device, without requiring an internet connection.
 
-![Morfosis Preview](https://raw.githubusercontent.com/rama-o/morfosis/main/morfosis-preview-min.webp)
+| Queue (Empty) | Queue | Settings | About |
+|---------------|-------|----------|-------|
+| ![Queue Empty](https://raw.githubusercontent.com/jmiguelrivas/morfosis/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png) | ![Queue](https://raw.githubusercontent.com/jmiguelrivas/morfosis/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png) | ![Settings](https://raw.githubusercontent.com/jmiguelrivas/morfosis/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png) | ![About](https://raw.githubusercontent.com/jmiguelrivas/morfosis/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png) |
 
 > App preview
 
