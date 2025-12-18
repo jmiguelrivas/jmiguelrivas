@@ -169,7 +169,7 @@ Sine-Based Oscillation
 </summary>
 
 
-[![Bounce Preview](img/og-preview-research_bounce.webp)
+![Bounce Preview](img/og-preview-research_bounce.webp)
 
 This project aims to simplify how bouncing animations are calculated by removing the need for traditional conditional checks when an object reaches the edges of the screen. Instead, it uses a continuous filtering approach that naturally reverses direction, creating a smooth bounce effect without explicit boundary conditions. This technique can be applied to any scenario where an element needs to rebound (such as a ball moving around the screen or other looping, oscillating animations) making the underlying motion logic cleaner, more elegant, and easier to reuse in different programs.
 
