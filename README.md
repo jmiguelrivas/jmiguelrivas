@@ -12,7 +12,6 @@
 ![Storybook](https://img.shields.io/badge/Storybook-FDCFE8?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F2C1BD?style=for-the-badge)
 ![Vue.js](https://img.shields.io/badge/Vue.js-D0F0E3?style=for-the-badge)
-![React](https://img.shields.io/badge/React-D8F0FA?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FEF3C7?style=for-the-badge)
 
 # Olá!
