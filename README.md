@@ -12,12 +12,11 @@
 ![Storybook](https://img.shields.io/badge/Storybook-FDCFE8?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F2C1BD?style=for-the-badge)
 ![Vue.js](https://img.shields.io/badge/Vue.js-D0F0E3?style=for-the-badge)
-![React](https://img.shields.io/badge/React-D8F0FA?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FEF3C7?style=for-the-badge)
 
 # Olá!
 
-I'm a passionate **frontend developer** with a strong focus on building custom web applications mostly using **Vue** with deep knowledge about **React** and **Web Components**.
+I'm a passionate **frontend developer** with a strong focus on building custom web applications mostly using **Vue** with some knowledge about **Web Components**.
 
 With years of experience across various industries, I've contributed to **UI libraries**, optimized performance, and collaborated closely with cross functional teams to deliver seamless user experiences. My expertise includes modern frontend frameworks, component-driven development, and testing methodologies using tools like **Storybook** and **Vitest**.
 
