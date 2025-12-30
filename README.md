@@ -25,6 +25,26 @@ With years of experience across various industries, I've contributed to **UI lib
 
 <details name="project">
 <summary>
+Mako Launcher / 2025-12-19
+
+[![GitHub Source](https://img.shields.io/badge/GitHub%20Source-66b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmiguelrivas/mako) [![Website](https://img.shields.io/badge/Website-966?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmiguelrivas/mako)
+</summary>
+
+![Preview](https://raw.githubusercontent.com/jmiguelrivas/mako/refs/heads/master/fastlane/metadata/android/en-US/images/featureGraphic.png)
+
+**Mako** is a **minimal, privacy-first Android launcher** designed for focus, speed, and
+simplicity.
+
+Built entirely in **native Kotlin**, Mako runs fully **on-device**, avoids tracking, and keeps
+distractions to a minimum by emphasizing clarity and intentional interaction.
+
+| Home | Settings | About |
+| - | - | - |
+| ![Home](https://raw.githubusercontent.com/jmiguelrivas/mako/refs/heads/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png) | ![Settings](https://raw.githubusercontent.com/jmiguelrivas/mako/refs/heads/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png) | ![About](https://raw.githubusercontent.com/jmiguelrivas/mako/refs/heads/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png) |
+</details>
+
+<details name="project">
+<summary>
 Salishan Keyboard / 2025-11-15
 
 [![GitHub Source](https://img.shields.io/badge/GitHub%20Source-66b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salishan/salishan) [![Website](https://img.shields.io/badge/Website-696?style=for-the-badge&logo=github&logoColor=white)](https://salishan.github.io)
@@ -38,7 +58,7 @@ Salishan Keyboard / 2025-11-15
 
 </details>
 
-<details name="project" open>
+<details name="project">
 <summary>
 Morfosis / 2025-09-06
 
@@ -46,7 +66,7 @@ Morfosis / 2025-09-06
 
 </summary>
 
-[![Morfosis](https://rama-o.github.io/img/preview-morfosis.webp)](https://rama-o.github.io/morfosis)
+![Morfosis](https://rama-o.github.io/img/preview-morfosis.webp)
 
 Morfosis is a **Flutter app** for offline media conversion, focused on privacy and speed. Powered by FFmpeg, it lets users convert audio and video files between multiple formats entirely on their device, without requiring an internet connection.
 
