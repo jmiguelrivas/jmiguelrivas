@@ -22,7 +22,7 @@ With years of experience across various industries, I've contributed to **UI lib
 
 ## Open Source Projects
 
-<details name="project">
+<details name="project" open>
 <summary>
 Mako Launcher / 2025-12-19
 
