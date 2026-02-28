@@ -29,7 +29,7 @@ Mako Launcher / 2025-12-19
 [![GitHub Source](https://img.shields.io/badge/GitHub%20Source-66b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmiguelrivas/mako) [![Website](https://img.shields.io/badge/Website-966?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmiguelrivas/mako)
 </summary>
 
-![Preview](https://raw.githubusercontent.com/jmiguelrivas/mako/refs/heads/master/fastlane/metadata/android/en-US/images/featureGraphic.png)
+![Preview](https://raw.githubusercontent.com/jmiguelrivas/mako/refs/heads/master/metadata/mako_preview.svg)
 
 **Mako** is a **minimal, privacy-first Android launcher** designed for focus, speed, and
 simplicity.
